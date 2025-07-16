@@ -2,7 +2,7 @@
 
 An intelligent, agent-powered chatbot built with **LangChain**, **Groq's Llama3**, and **Streamlit**. Ask real-world questions and get answers sourced from **Wikipedia**, **Arxiv**, and **DuckDuckGo** — all routed dynamically by LangChain’s tool-aware agent. The assistant chooses the best search tool, explains its actions, and replies with reasoned answers.
 
-**App Link**: [LangChain Search Assistant](https://qnapdfbothistory-hy43ewikzwizbs9ytrnchx.streamlit.app)
+**App Link**: [Multi Source Search Bot](https://multi-source-search-bot-dlvgg5gzt8qsnb3xahjcad.streamlit.app)
 
 ---
 
