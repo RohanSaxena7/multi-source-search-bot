@@ -7,3 +7,5 @@ sentence-transformers
 duckduckgo-search
 pysqlite3-binary
 python-dotenv
+arxiv
+wikipedia
